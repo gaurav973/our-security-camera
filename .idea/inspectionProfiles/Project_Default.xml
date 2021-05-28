@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E265" />
+          <option value="E302" />
+          <option value="W391" />
+          <option value="E225" />
+          <option value="E703" />
+          <option value="E305" />
+          <option value="E231" />
+          <option value="E271" />
+          <option value="E272" />
+          <option value="E111" />
+          <option value="E117" />
+          <option value="E203" />
+          <option value="E303" />
+          <option value="W292" />
+          <option value="E114" />
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="PyQt5-stubs==5.15.2.0" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.__getitem__" />
+          <option value="voiceASSSITANT.get" />
+          <option value="kit.sendwhatmsg" />
+          <option value="voiceASSSITANT.voice" />
+          <option value="voiceASSSITANT.audio" />
+          <option value="random.random.choice" />
+          <option value="voiceASSSITANT.content" />
+          <option value="voiceASSSITANT.sendEmail" />
+          <option value="voiceASSSITANT.sever" />
+          <option value="voiceASSSITANT.server" />
+          <option value="bs4.beautifullsoup" />
+          <option value="voiceASSSITANT.requests" />
+          <option value="bs4.beautifulsoup" />
+          <option value="voiceASSSITANT.ipAdd" />
+          <option value="voiceASSSITANT.TaskExecution" />
+          <option value="voiceASSSITANT.sys" />
+          <option value="voiceASSSITANT.t_date" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>
